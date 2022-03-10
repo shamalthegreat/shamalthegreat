@@ -1,8 +1,8 @@
 <!-- Main Heading -->
-# <div align="center"><a href=""><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
+# <div align="center"><a href=""><b><i>SHAMALTHEGREAT</i></b></a></div>
  
 <!-- Image --> 
-# <div align="center"><img src="mypdark.png" height="250px" alt="Yoshitha Rathnayake"></div>
+# <div align="center"><img src="mypdark.jpg" height="250px" alt="Shamal"></div>
 
 <!-- Number of GitHub Followers -->
 # ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
@@ -11,7 +11,7 @@
 <a href="https://github.com/shamalthegreat">@shamalthegreat<a>
  
 <!-- GitHub Skyline -->
-<a href="https://skyline.github.com/yoshitharathnayake/2022">Github Skyline<a>
+<a href="https://skyline.github.com/shhamakthegreat/2022">Github Skyline<a>
  
  
 <!-- First Paragraph -->
