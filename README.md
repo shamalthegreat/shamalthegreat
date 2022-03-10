@@ -5,18 +5,18 @@
 # <div align="center"><img src="mypdark.jpg" height="250px" alt="Shamal"></div>
 
 <!-- Number of GitHub Followers -->
-# ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
+# ![GitHub followers](https://img.shields.io/github/followers/shamalthegreat?logo=GitHub&style=for-the-badge)
 
 <!-- GitHub Username -->
 <a href="https://github.com/shamalthegreat">@shamalthegreat<a>
  
 <!-- GitHub Skyline -->
-<a href="https://skyline.github.com/shhamakthegreat/2022">Github Skyline<a>
+<a href="https://skyline.github.com/shamalthegreat/2021">Github Skyline<a>
  
  
 <!-- First Paragraph -->
 # 
-> Hi, I am Yoshitha Rathnayake.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+> Hi, I am Shamal Induwara.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > This is my personal portfolio.
 
@@ -26,33 +26,19 @@
 # About Me  ![1f600](https://user-images.githubusercontent.com/97069900/154191851-6317b49b-1068-4f96-abb7-7935f2d7c466.png)
 
 
-> I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
+> I am <p><b><i>Shamal Induwara.</i></b></p>
 
-> I am a Student, Developer, Designer, Software Developer, Web Developer, Game Developer, Programmer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer and a badminton player.
+> I am a Student, Developer and Designer.
  
-> I am 13 years old. 
+> I am 15 years old. 
 
 > I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy.</i></b></a>
  
-> I am a <a href="https://developers.google.com/"><b><i>Developer of Google</i></b> </a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake </i></b></a>)
- 
-> I am a member of <a href="https://medium.com/"><b><i>Medium</i></b></a> (<a href="https://yoshitharathnayake.medium.com/"><b><i> yoshitharathnayake.medium.com </i></b></a>)
 
-> My favourite subject is ICT.
+> I live in Kurunegala District, North western Province, Sri Lanka.
 
-> I am observing Buddhism as my religion.
 
-> I live in Kandy District, Central Province, Sri Lanka.
-
-> I am playing Badminton 🏸 in my school as my favourite sport.
-
-> I am a member of <a href="https://github.com/acf-sack"><b><i>Antonian Computer Fraternity (ACF)</i></b></a> in our school and also a memeber of <a href="https://sefglobal.org/"><b><i>Sustainable Education Foundation (SEF).</i></b></a>
-
-> I am a Volkswagen car lover.
- 
-> I hope to be a <b><i>Computer Engineer 💻 </i></b> in the future.
-
-> I am proud to say that I am a Sri Lankan, Buddhist and Antonian.
+> I hope to be a <b><i>Software Engineer 💻 </i></b> in the future.
 
 
  
@@ -60,9 +46,9 @@
 # What can I do ?   ![1f4bb](https://user-images.githubusercontent.com/97069900/154191116-32d123fe-5228-400e-a78b-c23add78bee2.png)
 
 
-> Working with Windows, Linux, Macintosh (Operating Systems)
+> Working with Windows, Linux (Operating Systems)
     
-<a href="https://www.microsoft.com/en-in/windows"><img src="https://img.icons8.com/color/50/000000/windows-11.png"/><a>    <a href="https://www.linux.org/pages/download/"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="55px"><a>     <a href="https://www.apple.com/macos/monterey/"><img src="https://img.icons8.com/ios-filled/50/ffffff/mac-os.png" height="50px"><a>
+<a href="https://www.microsoft.com/en-in/windows"><img src="https://img.icons8.com/color/50/000000/windows-11.png"/><a>    <a href="https://www.linux.org/pages/download/"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="55px"><a> 
    
   
 > Working with the CMD/PowerShell/Terminal in Windows, Linux, Macintosh (Operating Systems) 
@@ -70,14 +56,13 @@
 <a href="https://www.microsoft.com/en-us/p/powershell/9mz1snwt0n5d?activetab=pivot:overviewtab#"><img src="https://deow9bq0xqvbj.cloudfront.net/image-logo/1769310/powershell.png" height="50px"><a><a href="https://linux.softpedia.com/get/Terminals/Terminal-3667.shtml"><img src="https://cdn1.macworld.co.uk/cmsdata/features/3608274/terminalicon2_thumb800.png" height="50px"><a><a href="https://sourceforge.net/directory/os:windows/?q=terminal+macos"><img src="https://th.bing.com/th/id/R.89609d9d431352f2e33b1f6e3541cd6a?rik=SAxIDO2wV5uaZg&riu=http%3a%2f%2fwww.journaldulapin.com%2fwp-content%2fuploads%2f2014%2f06%2fTerminal.png&ehk=Imywc0M3kWwm7BBNym409lajOPUIAn5tqXrF5Pb40TM%3d&risl=&pid=ImgRaw&r=0" height="50px"><a>    
     
 
-> Word Processing with Microsoft Office Pro Plus, Office 365, Microsoft 365, Libre Office, Google Docs (Softwares)
+> Word Processing with Microsoft Office Pro Plus (Softwares)
     
-<a href="https://www.microsoft.com/en-US/microsoft-365/p/office-professional-2021/CFQ7TTC0HHJ9?activetab=pivot%3aoverviewtab"><img src="https://img.icons8.com/color/50/000000/microsoft-office-2019.png"/></a>    <a href="https://www.office.com/"><img src="https://img.icons8.com/color/50/000000/office-365.png"/></a>     <a href="https://www.libreoffice.org/"><img src="https://img.icons8.com/windows/50/ffffff/libre-office-suite.png"/></a>       <a href="https://docs.google.com/document/u/0/"><img src="https://img.icons8.com/color/50/000000/google-docs--v2.png"/></a>
-    
+<a href="https://www.microsoft.com/en-US/microsoft-365/p/office-professional-2021/CFQ7TTC0HHJ9?activetab=pivot%3aoverviewtab"><img src="https://img.icons8.com/color/50/000000/microsoft-office-2019.png"/></a>    <a href="https://www.office.com/"><img src="https://img.icons8.com/color/50/000000/office-365.png"/></a>     <a href="https://www.libreoffice.org/">
 
 > Web Browsing with Microsoft Edge, Chrome, Mozilla Firefox, Opera, Safari, Internet Explorer, Chromium, Brave, Vivaldi (Web Browsers)
     
-<a href="https://www.microsoft.com/en-us/edge?r=1"><img src="https://img.icons8.com/color/48/4a90e2/ms-edge-new.png"/></a>      <a href="https://www.google.com/chrome/"><img src="https://img.icons8.com/fluency/48/4a90e2/chrome.png"/></a>       <a href="https://www.mozilla.org/en-US/exp/firefox/new/"><img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" height="43px"/></a>       <a href="https://www.opera.com/download"><img src="https://img.icons8.com/color/48/4a90e2/opera--v1.png"/></a>      <a href="https://support.apple.com/downloads/safari"><img src="https://img.icons8.com/color/48/4a90e2/safari--v1.png"/></a>     <a href="https://www.microsoft.com/en-us/download/internet-explorer.aspx"><img src="https://img.icons8.com/color/48/000000/internet-explorer.png"/></a>      <a href="https://www.chromium.org/chromium-projects/"><img src="https://img.icons8.com/color/48/000000/chromium.png"/></a>      <a href="https://brave.com/"><img src="https://img.icons8.com/color/48/000000/brave-web-browser.png"/></a> <a href="https://vivaldi.com/"><img src="https://img.icons8.com/fluency/50/000000/vivaldi-web-browser.png"/></a>
+<a href="https://www.microsoft.com/en-us/edge?r=1"><img src="https://img.icons8.com/color/48/4a90e2/ms-edge-new.png"/></a>      <a href="https://www.google.com/chrome/"><img src="https://img.icons8.com/fluency/48/4a90e2/chrome.png"/></a>       <a href="https://www.mozilla.org/en-US/exp/firefox/new/"><img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" height="43px"/></a>
   
  
 > Web Designing with Notepad, Notepad++, Visual Studio Code, IntelliJ, Pycharm, Adobe Dreamweaver, Sublime Text, Atom (Softwares)
@@ -90,9 +75,9 @@
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>    <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><a>    <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>   <a href="https://www.w3schools.com/python/"><img src="https://img.icons8.com/fluency/48/000000/python.png"/><a>
         
 
-> Video Editing with Adobe Premiere Pro, Wonershare Filmora X, Microsoft Video Editor, Movie Maker (Softwares)
+> Video Editing with Adobe Premiere Pro (Softwares)
     
-<a href="https://www.adobe.com/products/premiere.html"><img src="https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_premiere.svg" height="43px"/></a>      <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" height="43px"/></a>      <a href="https://filmora.wondershare.com/"><img src="https://img.icons8.com/color/50/000000/filmora.png"/></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <img src="https://img.icons8.com/fluency/50/4a90e2/windows-movie-maker.png"/>
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_premiere.svg" height="43px"/></a>
  
  
 > Photo Editing with Adobe Photoshop, Microsoft Photos (Softwares)
