@@ -98,7 +98,7 @@
  
 > Open Source Contributing with GitHub, GitLab (Platforms) 
 
-<a href="https://github.com/YoshithaRathnayake"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>       <a href="https://www.gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
+<a href="https://github.com/shamalthegreat"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
  
  
 > Audio Editing with Audacity, Adobe Audition (Softwares) 
@@ -126,42 +126,34 @@
 # Contact Me  ![1f4de](https://user-images.githubusercontent.com/97069900/154191604-ac56f694-0ae9-41bd-bb9e-3d533823dc25.png)
 
   
-> Full Name :- <b><i>R.M.Y.S.B.Rathnayake</i></b>
+> Full Name :- <b><i>P.S.I. Dayarathne</i></b>
   
-> Short Name :- <b><i>Yoshitha Rathnayake</i></b>
+> Short Name :- <b><i>Shamal Induwara</i></b>
   
-> Phone Number :- <a href="tel:+94 076 707 3488"><b><i>+94 076 707 3488</i></b></a>
+> Phone Number :- <a href="tel:+94 071 443 2723"><b><i>+94 071 443 2723</i></b></a>
   
-> Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
+> Email :- <a href="mailto:shamalinduwara3098@outlook.com"><b><i>shamalinduwara3098@outlook.com</i></b></a>
  
-> Google Developer :- <a href="https://developers.google.com/u/YoshithaRathnayake"><b><i>g.dev/YoshithaRathnayake</i></b></a>
-  
-
  
 <!-- Follow Me --> 
 # Follow Me
   
   
-<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/joinchat/hP-WbTXCf185YTg1" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/YoshithaRathnayake" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>    <a href="https://gitlab.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Git Lab Icon"/></a>    <a href="https://twitter.com/Yoshitha2008" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" /></a>     <a href="https://www.instagram.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" /></a>     <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" /></a>
- 
+<a href=" https://wa.link/1wg408" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/shamalthegreat" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/shamalthegreat" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>     
 
 
 <!-- GitHub Information -->
 #
  <p align="center">
   <!-- GitHub Stats -->
-  <img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true" />
+  <img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=shamalthegreat&show_icons=true&count_private=true" />
   <!-- Most used languages -->
-  <img align="middle" alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" />
+  <img align="middle" alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamalthegreat&layout=compact&count_private=true" />
 </p>
 
 <!-- Visitors Count --> 
 #
 **Visitors Count**
   
-![VisitorCount](https://profile-counter.glitch.me/{yoshitharathnayake2008}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{shamalthegreat}/count.svg)
 
-<!---
-Yoshitha-SACK/Yoshitha-SACK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
