@@ -2,7 +2,7 @@
 # <div align="center"><a href=""><b><i>SHAMALTHEGREAT</i></b></a></div>
  
 <!-- Image --> 
-# <div align="center"><img src="mypdark.jpg" height="250px" alt="Shamal"></div>
+# <div align="center"><img src="mebback.png" height="250px" alt="Shamal"></div>
 
 <!-- Number of GitHub Followers -->
 # ![GitHub followers](https://img.shields.io/github/followers/shamalthegreat?logo=GitHub&style=for-the-badge)
